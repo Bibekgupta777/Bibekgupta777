@@ -1,6 +1,6 @@
 [![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hi 👋, I'm Bibek Kumar Gupta</h1>
-<h3 align="center">A passionate frontend developer from Nepal </h3>
+<h3 align="center">A passionate developer from Nepal </h3>
 <img align="right" alt="Coding" width="400" src="https://motionbgs.com/media/128/itachi-uchiha_312.webp"
 
 
